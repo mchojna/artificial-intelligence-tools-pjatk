@@ -22,4 +22,5 @@ class KNN:
 
         result = Counter(groups).most_common()[0][0]
         # print(result)
+
         return result
